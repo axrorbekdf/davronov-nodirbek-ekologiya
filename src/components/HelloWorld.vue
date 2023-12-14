@@ -12,7 +12,7 @@ defineProps({
     <h1 class="green">{{ msg }}</h1>
     <h3>
       SUV ХAVZALARIGA IFLОSLОVCHI MОDDA ОQIZISHDAN KELADIGAN ZIYONNI HISOBLASH <br>
-      <a href="#" target="_blank" rel="noopener">5- amaliy mashg‘ulоt </a> 
+      <!-- <a href="#" target="_blank" rel="noopener">5- amaliy mashg‘ulоt </a>  -->
     </h3>
   </div>
 </template>
