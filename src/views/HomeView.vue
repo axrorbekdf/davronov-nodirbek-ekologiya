@@ -4,7 +4,7 @@
       <div class="row">
         <div class="col-12">
           <h1>Ruxsat etilgan oqovani topish.</h1>
-          <h1>REO =  C<sub>CI-</sub><sup>dop</sup> * q<sub>sv</sub> = {{hisoblash}} g/soat</h1>
+          <h1>R<sub>EO</sub> =  C<sub>CI-</sub><sup>dop</sup> * q<sub>sv</sub> = {{hisoblash}} g/soat</h1>
           
           <p>C<sub>CI-</sub><sup>dop</sup> - хlоrid iоnlarining yo‘l qo‘yiladigan  kоntsentratsiyasi, (g/m<sup>3</sup>);</p>
           <p>q<sub>sv</sub> - sutkalik suv хajmi, (m<sup>3</sup>/s)</p>
