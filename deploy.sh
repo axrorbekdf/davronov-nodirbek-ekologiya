@@ -12,7 +12,7 @@ git branch gh-pages
 git branch -D gh-pages
 git branch gh-pages
 git push origin master
-npm run build
+# npm run build
 
 # navigate into the build output directory
 cd dist
