@@ -4,7 +4,7 @@
 set -e
 
 # build
-# rm -rf dist
+rm -rf dist
 
 git add -A
 git commit -m 'deploy github pages'
@@ -12,7 +12,7 @@ git commit -m 'deploy github pages'
 git branch -D gh-pages
 git branch gh-pages
 git push origin master
-# npm run build
+npm run build
 
 # navigate into the build output directory
 cd dist
