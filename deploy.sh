@@ -4,11 +4,11 @@
 set -e
 
 # build
-rm -rf dist
+# rm -rf dist
 
 git add -A
 git commit -m 'deploy github pages'
-git branch gh-pages
+# git branch gh-pages
 git branch -D gh-pages
 git branch gh-pages
 git push origin master
