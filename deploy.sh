@@ -28,6 +28,6 @@ git commit -m 'deploy background'
 # git push -f git@github.com:axrorbekdf/axrorbekdf.github.io.git master
 
 # if you are deploying to https://<USERNAME>.github.io/<REPO>
-git push -f git@github.com:axrorbekdf/metro-masala.git master:gh-pages
+git push -f git@github.com:axrorbekdf/davronov-nodirbek-ekologiya.git master:gh-pages
 
 cd -
