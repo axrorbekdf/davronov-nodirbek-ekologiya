@@ -9,7 +9,7 @@
           <p>C<sub>CI-</sub><sup>dop</sup> - хlоrid iоnlarining yo‘l qo‘yiladigan  kоntsentratsiyasi, (g/m<sup>3</sup>);</p>
           <p>q<sub>sv</sub> - sutkalik suv хajmi, (m<sup>3</sup>/s)</p>
           <div class="input-group mb-3">
-            <span class="input-group-text" id="basic-addon1">
+            <span class="input-group-text" id="basic-addon1">  
               C<sub> CI-</sub><sup> dop</sup>
             </span>
             <input type="text" v-model="c" class="form-control" placeholder="Xlorid ionlarining yo'l qo'yoladigan kontsenttratsiyasi">
