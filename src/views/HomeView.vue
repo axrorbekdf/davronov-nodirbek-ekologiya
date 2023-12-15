@@ -19,7 +19,7 @@
             <span class="input-group-text" id="basic-addon1">
               q<sub>sv</sub> 
             </span>
-            <input type="text" v-model="q" class="form-control" placeholder="Sutkalik suv xajmi">
+            <input type="text" v-model="q" class="form-control" placeholder="Sutkalik suv xajmi"> 
           </div>
 
           
