@@ -1,0 +1,8 @@
+{
+  "appId": "metro.masala",
+  "appName": "metro-masala",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}

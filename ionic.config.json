@@ -1,0 +1,7 @@
+{
+  "name": "metro-masala",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "custom"
+}
