@@ -18,6 +18,7 @@
     "@capacitor/ios": "next",
     "@capacitor/keyboard": "next",
     "@capacitor/status-bar": "next",
+    "node-thermal-printer": "^4.4.2",
     "vue": "^3.3.10",
     "vue-router": "^4.2.5"
   },

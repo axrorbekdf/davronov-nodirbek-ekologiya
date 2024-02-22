@@ -1,0 +1,7 @@
+{
+  "name": "ios",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
